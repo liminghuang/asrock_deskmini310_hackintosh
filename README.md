@@ -29,4 +29,14 @@ No!
 ## Snapshot
 ![About](https://github.com/liminghuang/asrock_deskmini310_hackintosh/blob/master/snapshot/about.png)
 
+![IGPU](https://github.com/liminghuang/asrock_deskmini310_hackintosh/blob/master/snapshot/IGPU.png)
+
+![bluetooth](https://github.com/liminghuang/asrock_deskmini310_hackintosh/blob/master/snapshot/bluetooth.png)
+
+![ethernet](https://github.com/liminghuang/asrock_deskmini310_hackintosh/blob/master/snapshot/ethernet.png)
+
+![usb](https://github.com/liminghuang/asrock_deskmini310_hackintosh/blob/master/snapshot/usb.png)
+
+![video_1](https://github.com/liminghuang/asrock_deskmini310_hackintosh/blob/master/snapshot/video_1.png)
+
 *ps. I remove my serial number and others private info in SMBIOS, please refill those info by Clover first.
