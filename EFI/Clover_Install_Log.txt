@@ -1,0 +1,35 @@
+
+Clover EFI installer log - Sun Mar  3 00:35:54 CST 2019
+Installer version: v2.4k r4871 EFI bootloader
+======================================================
+/dev/disk0 (internal):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                         512.1 GB   disk0
+   1:                        EFI EFI                     209.7 MB   disk0s1
+   2:                 Apple_APFS Container disk1         511.9 GB   disk0s2
+
+/dev/disk1 (synthesized):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      APFS Container Scheme -                      +511.9 GB   disk1
+                                 Physical Store disk0s2
+   1:                APFS Volume Macintosh HD            62.8 GB    disk1s1
+   2:                APFS Volume Preboot                 45.9 MB    disk1s2
+   3:                APFS Volume Recovery                517.0 MB   disk1s3
+   4:                APFS Volume VM                      2.1 GB     disk1s4
+
+Target volume /Volumes/Macintosh HD on disk1 is APFS on physical store disk0s2
+======================================================
+Backing up EFI files
+
+Backing up /Volumes/Macintosh HD/EFIROOTDIR/EFI folder to /Volumes/Macintosh HD/EFI-Backups/r4769/2019-03-03-00h35/EFI
+======================================================
+Installing BootSectors/BootLoader
+
+Stage 0 - Don't write any of boot0af, boot0md, boot0ss to /
+Stage 1 - Don't write any of boot1h2, boot1f32alt, boot1xalt to /
+
+Theme 'tonymacx86' (defined in config.plist) not found !
+Using default theme 'random'
+======================================================
+=========== Clover EFI Installation Finish ===========
+======================================================
