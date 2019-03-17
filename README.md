@@ -26,4 +26,7 @@ CPU cooler: NOCTUA NH L9i Fan + CRYORIG C7 Cu
 ## Issues
 No!
 
+## Snapshot
+![About](https://github.com/liminghuang/asrock_deskmini310_hackintosh/blob/master/snapshot/about.png)
+
 *ps. I remove my serial number and others private info in SMBIOS, please refill those info by Clover first.
