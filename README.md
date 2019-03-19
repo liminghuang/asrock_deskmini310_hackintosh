@@ -67,3 +67,6 @@ Kext Updater
 After macOS installed done, please leave FakeSMC.kext only in /Library/Extensions and use Kext Updater tool to install other kexts again. Kext Updater will help you to manage what dictionary is good for kext driver to install.
 
 *ps. I remove my serial number and others private info in SMBIOS, please refill those info by Clover first.
+
+# Why I choose hackintosh? 
+[My youtube link](https://youtu.be/d5WUizoIxy0) <-- Language is Mandarin
