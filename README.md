@@ -41,6 +41,12 @@ It's macOS 10.14.3 issue, someone report that 10.14.4 beta has already fixed thi
 
 ![video_1](https://github.com/liminghuang/asrock_deskmini310_hackintosh/raw/master/snapshot/video_1.png)
 
+## Dual monitor output - DP and HDMI
+![video_2](https://github.com/liminghuang/asrock_deskmini310_hackintosh/raw/master/snapshot/dual_monitor1.png)
+
+![video_3](https://github.com/liminghuang/asrock_deskmini310_hackintosh/raw/master/snapshot/dual_monitor2.png)
+
+
 ## Tools - Here are some tools you need...
 
 Clover Configurator
