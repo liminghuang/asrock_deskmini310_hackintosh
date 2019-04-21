@@ -9,7 +9,7 @@ SSD: Intel 760p 512GB M.2 PCIE
 
 HDD1: Intel 545s 512GB SATAIII
 
-WIFI/BT: DW1560/BCM94352Z WIFI/Bluetooth module mini PCIE/NGFF M2
+WIFI/BT: DW1560/BCM94352Z WIFI/Bluetooth module mini PCIE/NGFF M2 [taobao link](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.74d62e8d2XfNbV&id=524391843184&_u=lbsepu1ca39)
 
 CPU cooler: NOCTUA NH L9i Fan + CRYORIG C7 Cu
 
@@ -24,9 +24,11 @@ CPU cooler: NOCTUA NH L9i Fan + CRYORIG C7 Cu
 - [x] Graphics(Intel UHD 630)
 
 ## Issues
-If you are using FCPX, system will hang/freeze in FCPX when you add some video effects. 
+~~If you are using FCPX, system will hang/freeze in FCPX when you add some video effects. 
 Please disable background rendering in FCPX first.
-It's macOS 10.14.3 issue, someone report that 10.14.4 beta has already fixed this issue, let's wait the version release.(finger crossed!) 
+It's macOS 10.14.3 issue, someone report that 10.14.4 beta has already fixed this issue, let's wait the version release.(finger crossed!)~~
+
+After upgraded to 10.14.4, FCPX is running smoothly, enable background rendering and everything is fine.
 
 ## Snapshot
 ![About](https://github.com/liminghuang/asrock_deskmini310_hackintosh/raw/master/snapshot/about.png)
