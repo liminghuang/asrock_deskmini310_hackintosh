@@ -13,6 +13,8 @@ WIFI/BT: DW1560/BCM94352Z WIFI/Bluetooth module mini PCIE/NGFF M2 [taobao link](
 
 CPU cooler: NOCTUA NH L9i Fan + CRYORIG C7 Cu
 
+## Important task
+After copied all kexts to system, please remerber to use tool - Kext Utility to rebuild cache.
 
 ## Works
 - [x] Ethernet/WIFI/Bluetooth/Audio/USB
