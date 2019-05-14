@@ -1,5 +1,7 @@
 # Asrock deskmini 310 hackintosh
 
+2019/05/14: Upgrade to 10.14.15, everything is alright.
+
 ## Gears
 CPU: Intel Coffee Lake i7-8700
 
