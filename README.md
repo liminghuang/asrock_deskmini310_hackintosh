@@ -19,6 +19,15 @@ CPU cooler: NOCTUA NH L9i Fan + CRYORIG C7 Cu
 - Please keep BIOS in 3.x version
 - After copied all kexts to system, please remerber to use tool - Kext Utility to rebuild cache.
 
+## For BIOS 4.x
+DSDT Patch
+
+```code
+comment: Fix RTC _STA bug (fix asrock new bios failed to boot)
+Find: A00A9353 54415301
+Replace: A00A910A FF0BFFFF
+```
+
 ## Works
 - [x] Ethernet/WIFI/Bluetooth/Audio/USB
 
