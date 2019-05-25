@@ -29,7 +29,7 @@ Replace: A00A910A FF0BFFFF
 ```
 
 ## Works
-- [x] Ethernet/WIFI/Bluetooth/Audio/USB
+- [x] Ethernet/WIFI/Bluetooth/Audio/USB 2.0, 3.0(type-A, type-C)
 
 - [x] DP/HDMI dual monitor output
 
