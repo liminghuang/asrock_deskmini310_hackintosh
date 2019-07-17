@@ -1,4 +1,5 @@
 # Asrock deskmini 310 hackintosh
+2019/07/17: Upgrade to Clover 5018. Clover has new folder struct, all drivers moved to CLOVER/drivers/UEFI. I found my bluetooth keyboard has latency issue. I recommand keep Clover version at 4972.
 
 2019/05/14: Upgrade to 10.14.15, everything is alright.
 
