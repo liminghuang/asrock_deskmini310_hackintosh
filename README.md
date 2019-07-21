@@ -1,16 +1,26 @@
 # Asrock deskmini 310 hackintosh
-2019/07/17: Upgrade to Clover 5018. Clover has new folder struct, all drivers moved to CLOVER/drivers/UEFI. I found my bluetooth keyboard has latency issue. I recommand keep Clover version at 4972.
+This branch is iMac 19,1 with external graphic card. If you don't have an eGPU, please don't use this branch.
 
-2019/05/14: Upgrade to 10.14.15, everything is alright.
+The SSDT doesn't same with master, it will make the bluetooth invalid in hackintosh. Please make sure what version you would like to do.
+
+As the [link](https://egpu.io/external-gpu-buyers-guide-2019/#m2-interface) mentios, M2 eGPU outperforms a 32Gbps-TB3 eGPU by over 20%. The adapter card insteds of SSD on M.2 PCIE slot, please prepare a SATA HDD for system installation first.
+
+![rx580](https://github.com/liminghuang/asrock_deskmini310_hackintosh/raw/iMac_with_RX580/snapshot/rx580.jpg)
 
 ## Gears
 CPU: Intel Coffee Lake i7-8700
 
+External eGPU Adapter Card: [ADT R43SG](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.5e242e8dEZJSvC&id=560189396157&_u=lbsepu1bcd3)
+
+Power of external eGPU adapter card：[Dell 12V/220W power](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.5e242e8dEZJSvC&id=583671576782&_u=lbsepu1f5bc)
+
+Video: MSI Radeon RX 580 ARMOR 8G OC
+
 RAM: Kingston DDR4-2666 16GBx2
 
-SSD: Intel 760p 512GB M.2 PCIE
+HDD1: Micron MX500 1T SATAIII
 
-HDD1: Intel 545s 512GB SATAIII
+HDD2: Intel 545s 512GB SATAIII
 
 WIFI/BT: DW1560/BCM94352Z WIFI/Bluetooth module mini PCIE/NGFF M2 [taobao link](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.74d62e8d2XfNbV&id=524391843184&_u=lbsepu1ca39)
 
@@ -29,21 +39,8 @@ Find: A00A9353 54415301
 Replace: A00A910A FF0BFFFF
 ```
 
-## Works
-- [x] Ethernet/WIFI/Bluetooth/Audio/USB 2.0, 3.0(type-A, type-C)
-
-- [x] DP/HDMI dual monitor output
-
-- [x] Shutdown、Sleep
-
-- [x] Graphics(Intel UHD 630)
-
 ## Issues
-~~If you are using FCPX, system will hang/freeze in FCPX when you add some video effects. 
-Please disable background rendering in FCPX first.
-It's macOS 10.14.3 issue, someone report that 10.14.4 beta has already fixed this issue, let's wait the version release.(finger crossed!)~~
-
-After upgraded to 10.14.4, FCPX is running smoothly, enable background rendering and everything is fine.
+NO!!!
 
 ## Snapshot
 ![About](https://github.com/liminghuang/asrock_deskmini310_hackintosh/raw/master/snapshot/about.png)
