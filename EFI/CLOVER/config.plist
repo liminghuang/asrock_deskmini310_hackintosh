@@ -277,7 +277,7 @@
 		<key>Debug</key>
 		<false/>
 		<key>DefaultVolume</key>
-		<string>Macintosh HD</string>
+		<string>Macintosh</string>
 		<key>Legacy</key>
 		<string>PBR</string>
 		<key>Secure</key>
@@ -503,33 +503,33 @@
 	<key>SMBIOS</key>
 	<dict>
 		<key>BiosReleaseDate</key>
-		<string>09/17/2018</string>
+		<string>05/28/2019</string>
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
-		<string>MM81.88Z.F000.B00.1809171422</string>
+		<string>IM191.88Z.F000.B00.1905281819</string>
 		<key>Board-ID</key>
-		<string>Mac-7BA5B2DFE22DDD8C</string>
+		<string>Mac-AA95B1DDAB278B95</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C078121044NCB</string>
+		<string></string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
 		<string>1.0</string>
 		<key>ChassisAssetTag</key>
-		<string>Mini-Aluminum</string>
+		<string>iMac-Aluminum</string>
 		<key>ChassisManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>ChassisType</key>
 		<string>0x09</string>
 		<key>EfiVersion</key>
-		<string>220.207.27.0.0</string>
+		<string>220.270.76.0.0</string>
 		<key>Family</key>
-		<string>Mac mini</string>
+		<string>iMac</string>
 		<key>FirmwareFeatures</key>
-		<string>0xFC0FE137</string>
+		<string>0xFD8FF576</string>
 		<key>FirmwareFeaturesMask</key>
 		<string>0xFF1FFF3F</string>
 		<key>LocationInChassis</key>
@@ -539,13 +539,13 @@
 		<key>Mobile</key>
 		<false/>
 		<key>PlatformFeature</key>
-		<string>0x02</string>
+		<string>0x00</string>
 		<key>ProductName</key>
-		<string>Macmini8,1</string>
+		<string>iMac19,1</string>
 		<key>SerialNumber</key>
-		<string>C07WG7Y4JYVX</string>
+		<string></string>
 		<key>SmUUID</key>
-		<string>070DC3EB-CF3E-4ECD-8D40-C4C141377F42</string>
+		<string></string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
