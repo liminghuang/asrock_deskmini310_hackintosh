@@ -1,5 +1,5 @@
 # Asrock deskmini 310 hackintosh
-This branch is iMac 19,1 with external graphic card. If you don't have an eGPU, please don't use this branch.
+This branch is iMac 19,2 with external graphic card. If you don't have an eGPU, please don't use this branch.
 
 The SSDT doesn't same with master, it will make the bluetooth invalid in hackintosh. Please make sure what version you would like to do.
 
