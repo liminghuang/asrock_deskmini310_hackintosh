@@ -1,5 +1,6 @@
-# Asrock deskmini 310 hackintosh
-This branch is iMac 19,2 with external graphic card. If you don't have an eGPU, please don't use this branch.
+# Asrock deskmini 310 hackintosh for mac OS 10.15 Catalina ONLY!
+
+This branch is iMac 19,2 with external graphic card. If you don't have an eGPU, please don't use this branch. This version is under beta testing, there are many issues for solving and testing.
 
 The SSDT doesn't same with master, it will make the bluetooth invalid in hackintosh. Please make sure what version you would like to do.
 
