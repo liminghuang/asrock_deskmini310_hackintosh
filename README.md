@@ -44,22 +44,22 @@ Replace: A00A910A FF0BFFFF
 NO!!!
 
 ## Snapshot
-![About](https://github.com/liminghuang/asrock_deskmini310_hackintosh/raw/master/snapshot/about.png)
+![About](https://github.com/liminghuang/asrock_deskmini310_hackintosh/raw/iMac_with_RX580/snapshot/about.png)
 
-![IGPU](https://github.com/liminghuang/asrock_deskmini310_hackintosh/raw/master/snapshot/IGPU.png)
+![IGPU](https://github.com/liminghuang/asrock_deskmini310_hackintosh/raw/iMac_with_RX580/snapshot/IGPU.png)
 
-![bluetooth](https://github.com/liminghuang/asrock_deskmini310_hackintosh/raw/master/snapshot/bluetooth.png)
+![bluetooth](https://github.com/liminghuang/asrock_deskmini310_hackintosh/raw/iMac_with_RX580/snapshot/bluetooth.png)
 
-![ethernet](https://github.com/liminghuang/asrock_deskmini310_hackintosh/raw/master/snapshot/ethernet.png)
+![ethernet](https://github.com/liminghuang/asrock_deskmini310_hackintosh/raw/iMac_with_RX580/snapshot/ethernet.png)
 
-![usb](https://github.com/liminghuang/asrock_deskmini310_hackintosh/raw/master/snapshot/usb.png)
+![usb](https://github.com/liminghuang/asrock_deskmini310_hackintosh/raw/iMac_with_RX580/snapshot/usb.png)
 
-![video_1](https://github.com/liminghuang/asrock_deskmini310_hackintosh/raw/master/snapshot/video_1.png)
+![video_1](https://github.com/liminghuang/asrock_deskmini310_hackintosh/raw/iMac_with_RX580/snapshot/video_1.png)
 
 ## Dual monitor output - DP and HDMI
-![video_2](https://github.com/liminghuang/asrock_deskmini310_hackintosh/raw/master/snapshot/dual_monitor1.png)
+![video_2](https://github.com/liminghuang/asrock_deskmini310_hackintosh/raw/iMac_with_RX580/snapshot/dual_monitor1.png)
 
-![video_3](https://github.com/liminghuang/asrock_deskmini310_hackintosh/raw/master/snapshot/dual_monitor2.png)
+![video_3](https://github.com/liminghuang/asrock_deskmini310_hackintosh/raw/iMac_with_RX580/snapshot/dual_monitor2.png)
 
 
 ## Tools - Here are some tools you need...
