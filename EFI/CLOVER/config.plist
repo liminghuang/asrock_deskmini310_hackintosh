@@ -273,7 +273,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>slide=0 -v</string>
+		<string>slide=0 -v bpr_probedelay=200 bpr_initialdelay=400 bpr_postresetdelay=400 bpr_preresetdelay=50</string>
 		<key>Debug</key>
 		<false/>
 		<key>DefaultVolume</key>
@@ -330,10 +330,31 @@
 				<data>
 				cKEAAA==
 				</data>
+				<key>hda-gfx</key>
+				<string>onboard-1</string>
 				<key>layout-id</key>
 				<data>
 				HAAAAA==
 				</data>
+			</dict>
+			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
+			<dict>
+				<key>AAPL,ig-platform-id</key>
+				<data>
+				BwCbPg==
+				</data>
+				<key>AAPL,slot-name</key>
+				<string>Internal</string>
+				<key>device_type</key>
+				<string>Display controller</string>
+				<key>framebuffer-patch-enable</key>
+				<data>
+				AQAAAA==
+				</data>
+				<key>hda-gfx</key>
+				<string>onboard-2</string>
+				<key>model</key>
+				<string>Intel UHD Graphics 630 (Desktop)</string>
 			</dict>
 		</dict>
 		<key>USB</key>
@@ -440,17 +461,17 @@
 	<key>SMBIOS</key>
 	<dict>
 		<key>BiosReleaseDate</key>
-		<string>04/22/2019</string>
+		<string>02/18/2019</string>
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
-		<string>IM191.88Z.F000.B00.1904222222</string>
+		<string>IM192.88Z.F000.B00.1902181222</string>
 		<key>Board-ID</key>
 		<string>Mac-63001698E7A34814</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02926500CDKGQGUE</string>
+		<string>C02906300J9KGQG1H</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -462,11 +483,11 @@
 		<key>ChassisType</key>
 		<string>0x09</string>
 		<key>EfiVersion</key>
-		<string>220.260.170.0.0</string>
+		<string>220.250.368.0.0</string>
 		<key>Family</key>
 		<string>iMac</string>
 		<key>FirmwareFeatures</key>
-		<string>0xFD8FF576</string>
+		<string>0xFC0FE137</string>
 		<key>FirmwareFeaturesMask</key>
 		<string>0xFF1FFF3F</string>
 		<key>LocationInChassis</key>
@@ -480,9 +501,9 @@
 		<key>ProductName</key>
 		<string>iMac19,2</string>
 		<key>SerialNumber</key>
-		<string></string>
+		<string>C02Y7UZJJWDW</string>
 		<key>SmUUID</key>
-		<string>563863EF-C3DB-4C21-B42F-91B2E9A752A6</string>
+		<string>714200A0-282E-4AA5-A9E7-3D3E486582A7</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>

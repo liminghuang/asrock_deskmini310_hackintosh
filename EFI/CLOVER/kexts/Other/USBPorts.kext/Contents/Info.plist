@@ -53,8 +53,6 @@
 					</dict>
 					<key>HS02</key>
 					<dict>
-						<key>DevSpeed</key>
-						<integer>2</integer>
 						<key>UsbConnector</key>
 						<integer>10</integer>
 						<key>port</key>
@@ -75,8 +73,6 @@
 					</dict>
 					<key>HS04</key>
 					<dict>
-						<key>DevSpeed</key>
-						<integer>2</integer>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>port</key>
