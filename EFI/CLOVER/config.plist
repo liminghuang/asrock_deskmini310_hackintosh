@@ -267,13 +267,13 @@
 		</dict>
 		<key>SortedOrder</key>
 		<array>
-			<string>SSDT-UIAC.aml</string>
+			<string>SSDT-EC.aml</string>
 		</array>
 	</dict>
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>slide=0 -v bpr_probedelay=200 bpr_initialdelay=400 bpr_postresetdelay=400 bpr_preresetdelay=50</string>
+		<string>slide=0 -v</string>
 		<key>Debug</key>
 		<false/>
 		<key>DefaultVolume</key>
