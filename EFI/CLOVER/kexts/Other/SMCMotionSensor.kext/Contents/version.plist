@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildAliasOf</key>
+	<string>AppleMotionSensor</string>
+	<key>BuildVersion</key>
+	<string>4519</string>
+	<key>CFBundleShortVersionString</key>
+	<string>3.0.4</string>
+	<key>CFBundleVersion</key>
+	<string>3.0.4d1</string>
+	<key>ProjectName</key>
+	<string>AppleMotionSensor</string>
+	<key>SourceVersion</key>
+	<string>306000000000000</string>
+</dict>
+</plist>
