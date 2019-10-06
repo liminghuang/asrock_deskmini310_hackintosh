@@ -330,7 +330,7 @@
 		<key>Audio</key>
 		<dict>
 			<key>Inject</key>
-			<integer>3</integer>
+			<integer>28</integer>
 		</dict>
 		<key>FakeID</key>
 		<dict>
