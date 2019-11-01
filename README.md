@@ -91,3 +91,6 @@ After macOS installed done, please leave FakeSMC.kext only in /Library/Extension
 
 # Why I choose hackintosh? 
 [My youtube link](https://youtu.be/d5WUizoIxy0) <-- Language is Mandarin
+
+# 🍺🍺🍺 Donations via PayPal🍺🍺🍺
+[My PayPal](https://PayPal.Me/huangliming)
