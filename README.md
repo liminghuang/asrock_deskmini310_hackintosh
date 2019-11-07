@@ -2,7 +2,7 @@
 If you wanto install 10.15.x, please clone this repository and download the latest kext from interent or using Kext Updater tool to replcae the older kext driver in this repository.
 
 嗨! 各位,我的deskmini 310開始使用外掛顯卡了,這個版本我不再維護,如果你對於新版本有興趣,請到[這裡](https://github.com/liminghuang/asrock_deskmini310_hackintosh/tree/iMac_with_RX580)
-如果你是安裝10.15.x，請自行下載新版kext取代我提供的版本>
+如果你是安裝10.15.x，請自行下載新版kext取代我提供的版本
 
 # Asrock deskmini 310 hackintosh
 2019/07/17: Upgrade to Clover 5018. Clover has new folder struct, all drivers moved to CLOVER/drivers/UEFI. I found my bluetooth keyboard has latency issue. I recommand keep Clover version at 4972.
@@ -23,6 +23,7 @@ WIFI/BT: DW1560/BCM94352Z WIFI/Bluetooth module mini PCIE/NGFF M2 [taobao link](
 CPU cooler: NOCTUA NH L9i Fan + CRYORIG C7 Cu
 
 ## Important task
+- Please use display port on deskmini 310 to connect your monitor
 - Please keep BIOS in 3.x version
 - After copied all kexts to system, please remerber to use tool - Kext Utility to rebuild cache.
 
