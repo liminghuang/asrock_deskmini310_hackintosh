@@ -1,6 +1,8 @@
 ### Hi ALL, my deskmini 310 starts to use an external graphic card now, this master version will not be under my maintenance. If you are interested in the new branch version with AMD RX580, go to [here](https://github.com/liminghuang/asrock_deskmini310_hackintosh/tree/iMac_with_RX580) and I will focus on this new version, thanks.
+If you wanto install 10.15.x, please clone this repository and download the latest kext from interent or using Kext Updater tool to replcae the older kext driver in this repository.
 
 嗨! 各位,我的deskmini 310開始使用外掛顯卡了,這個版本我不再維護,如果你對於新版本有興趣,請到[這裡](https://github.com/liminghuang/asrock_deskmini310_hackintosh/tree/iMac_with_RX580)
+如果你是安裝10.15.x，請自行下載新版kext取代我提供的版本>
 
 # Asrock deskmini 310 hackintosh
 2019/07/17: Upgrade to Clover 5018. Clover has new folder struct, all drivers moved to CLOVER/drivers/UEFI. I found my bluetooth keyboard has latency issue. I recommand keep Clover version at 4972.
