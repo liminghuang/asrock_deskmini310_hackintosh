@@ -1,9 +1,8 @@
-# Asrock deskmini 310 hackintosh for mac OS 10.15 Catalina ONLY!
+# Asrock deskmini 310 hackintosh for mac OS 10.15.x Catalina ONLY!
 
 This branch is iMac 19,2 with external graphic card. If you don't have an eGPU, please don't use this branch. This version is under beta testing, there are many issues for solving and testing.
 
-The SSDT doesn't same with master, it will make the bluetooth invalid in hackintosh. Please make sure what version you would like to do.
-
+Why I choose external graphic card?
 As the [link](https://egpu.io/external-gpu-buyers-guide-2019/#m2-interface) mentios, M2 eGPU outperforms a 32Gbps-TB3 eGPU by over 20%. The adapter card insteds of SSD on M.2 PCIE slot, please prepare a SATA HDD for system installation first.
 
 ![rx580](https://github.com/liminghuang/asrock_deskmini310_hackintosh/raw/iMac_with_RX580/snapshot/rx580.jpg)
@@ -85,3 +84,6 @@ After macOS installed done, please leave FakeSMC.kext only in /Library/Extension
 
 # Why I choose hackintosh? 
 [My youtube link](https://youtu.be/d5WUizoIxy0) <-- Language is Mandarin
+
+# 🍺🍺🍺 Donations via PayPal🍺🍺🍺
+[My PayPal](https://PayPal.Me/huangliming)
