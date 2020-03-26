@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>19A512f</string>
+	<string>18E226</string>
 	<key>CFBundleIdentifier</key>
-	<string>org.rehabman.injector.BrcmBluetoothInjector</string>
+	<string>as.acidanthera.injector.BrcmBluetoothInjector</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
@@ -13,7 +13,7 @@
 	<key>CFBundlePackageType</key>
 	<string>KEXT</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.2.12</string>
+	<string>2.5.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -21,7 +21,7 @@
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2.2.12</string>
+	<string>2.5.0</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -1406,7 +1406,5 @@
 	</dict>
 	<key>OSBundleRequired</key>
 	<string>Root</string>
-	<key>Source Code</key>
-	<string>https://github.com/RehabMan/BrcmPatchRAM.git</string>
 </dict>
 </plist>
