@@ -355,9 +355,9 @@
 			<true/>
 		</dict>
 		<key>ScreenResolution</key>
-		<string>1920x1080</string>
+		<string>4096×2160</string>
 		<key>Theme</key>
-		<string>random</string>
+		<string>Catalina</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>
