@@ -1,3 +1,5 @@
+# This branch is for Opencore
+
 # Asrock deskmini 310 hackintosh for mac OS 10.15.x Catalina ONLY!
 
 This branch is iMac 19,2 with external graphic card. If you don't have an eGPU, please don't use this branch. This version is under beta testing, there are many issues for solving and testing.
@@ -23,6 +25,7 @@ HDD1: Micron MX500 1T SATAIII
 HDD2: Intel 545s 512GB SATAIII
 
 WIFI/BT: DW1560/BCM94352Z WIFI/Bluetooth module mini PCIE/NGFF M2 [taobao link](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.74d62e8d2XfNbV&id=524391843184&_u=lbsepu1ca39)
+  - Need to tape out two pins for BIOS 4.x
 
 CPU cooler: NOCTUA NH L9i Fan + CRYORIG C7 Cu
 
